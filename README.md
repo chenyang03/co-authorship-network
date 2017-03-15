@@ -1,6 +1,8 @@
-# Co-Authorship Network of 402.39K authors on Google Scholar
+# Co-authorship network of 402.39K authors on Google Scholar
 
 Building and Analyzing a Global Co-Authorship Network Using Google Scholar Data (full citation below)
+
+Licensed under [Creative Commons Attribution Share Alike 4.0](http://choosealicense.com/licenses/cc-by-sa-4.0/).
 
 ## Description
 
