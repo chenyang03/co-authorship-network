@@ -14,6 +14,10 @@ A global co-authorship network with 402.39K nodes and 1.23 million edges
 
 * ``edges.txt``: the co-authorship network among the authors. For example, "1, 3" means author 1 and author 3 are co-authors.
 
+* ``gs_info.txt``: the information of each node within the network. Each line in this file represents one node. Please see below for the syntax of each line: 
+
+node_ID total_number_of_citations h-index g-index title(3-professors/2-postdocs/1-students/0-unknown) cs_author?(1-yes,0-no) bio_author?(1-yes,0-no) sociology_author?(1-yes,0-no)
+
 ## BibTex Entry
 ```
 @inproceedings{Chen_BigScholar17,
